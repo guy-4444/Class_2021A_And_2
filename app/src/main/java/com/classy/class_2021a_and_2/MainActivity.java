@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
 
     private int counter = 0;
 
-    private String name = "Guyyyyy";
+    private String name = "Guyyyyy1";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
